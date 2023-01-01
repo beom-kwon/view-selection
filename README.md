@@ -15,7 +15,7 @@ Our 3D human pose dataset was collected using a Kinect sensor (version 2). This 
 
 # GUI for Subjective Assessment
 
-We implemented the graphical user interface (GUI) to help subjects conveniently find the preferable viewpoints they thinks during the subjective assessment. The GUI was implemented using MATLAB R2018a. To implement the GUI, we used the MATLAB function "uicontrol." Therefore, if you want to use the GUI, you need to install MATLAB on your PC. The MATLAB code of the GUI can be downloaded here.
+We implemented the graphical user interface (GUI) to help subjects conveniently find the preferable viewpoints they thinks during the subjective assessment. The GUI was implemented using MATLAB R2018a. To implement the GUI, we used the MATLAB function "uicontrol." Therefore, if you want to use the GUI, you need to install MATLAB on your PC.
 
 # Citation
 Please cite this paper in your publications if it helps your research.
