@@ -22,14 +22,14 @@ Please cite this paper in your publications if it helps your research.
 
 ```
 @article{kwon2020optimal,
-  title={Optimal camera point selection toward the most preferable view of 3-d human pose},
   author={Kwon, Beom and Huh, Jungwoo and Lee, Kyoungoh and Lee, Sanghoon},
   journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  title={Optimal Camera Point Selection Toward the Most Preferable View of 3-D Human Pose},
+  year={2022},
   volume={52},
   number={1},
-  pages={533--553},
-  year={2020},
-  publisher={IEEE}
+  pages={533-553},  
+  doi={10.1109/TSMC.2020.3004338}
 }
 ```
 Paper link:
