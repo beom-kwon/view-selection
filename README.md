@@ -1,9 +1,9 @@
 # Contents
-1. [Introduction](Introduction)
-2. [3D Human Pose Dataset](3D-Human-Pose-Dataset)
-3. [GUI for Subjective Assessment](GUI-for-Subjective-Assessment)
-4. [Citation](Citation)
-5. [License](License)
+1. [Introduction](introduction)
+2. [3D Human Pose Dataset](3d-human-pose-dataset)
+3. [GUI for Subjective Assessment](gui-for-subjective-assessment)
+4. [Citation](citation)
+5. [License](license)
 
 # Introduction
 
