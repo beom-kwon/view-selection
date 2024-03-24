@@ -53,7 +53,7 @@ Please cite this paper in your publications if it helps your research.
   year={2022},
   volume={52},
   number={1},
-  pages={533-553},  
+  pages={533--553},  
   doi={10.1109/TSMC.2020.3004338}
 }
 ```
